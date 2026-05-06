@@ -29,3 +29,7 @@ After preprocessing, a Random Forest classification model was added to the pipel
 A major feature of this project is pipeline persistence. Using joblib, the complete trained pipeline was saved as a file named data_pipeline.pkl. This saved file includes both preprocessing steps and the trained model, allowing the system to make predictions on new data without retraining.
 
 This project has practical applications in healthcare, finance, e-commerce, fraud detection, customer analytics, and predictive business systems. It provides strong foundational knowledge in data preprocessing, feature engineering, machine learning workflow design, and model deployment preparation.
+
+#OUTPUT
+
+<img width="1912" height="1021" alt="Image" src="https://github.com/user-attachments/assets/76c09e89-a9eb-4d5a-b966-35fdfbe3ffff" />
